@@ -12,11 +12,11 @@
 ✔️ Other languages I'm comfortable with: Java, Python <br>
 
 # Some of my experience: 
-🌍 Currently working under graduate student, Jayneel Vora, and Professor Shankar on a couple of projects in the CS department!
-🙌🏽 Worked at IpserLabs, a startup creating research marketplace websites, on their Front-End and Back-End work
-🍎 Was a robotics nerd throughout high school- worked with an 11-member team for four years. 
+🌍 Currently working under graduate student, Jayneel Vora, and Professor Shankar on a couple of projects in the CS department! <br>
+🙌🏽 Worked at IpserLabs, a startup creating research marketplace websites, on their Front-End and Back-End work <br>
+🍎 Was a robotics nerd throughout high school- worked with an 11-member team for four years. <br>
 
 # Non-Technical interests:
-❤️ I'm really passionate about women's health and bridging gaps in our society. In high school, I founded and ran a club that donated more than 5,000 sanitary products to homeless women.
-🏀 Working out
+❤️ I'm really passionate about women's health and bridging gaps in our society. In high school, I founded and ran a club that donated more than 5,000 sanitary products to homeless women. <br>
+🏀 Working out <br>
 🧁 Spending time with my friends and trying new food places
