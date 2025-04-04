@@ -1,4 +1,5 @@
 ## (At the moment, my website is under works, so this is my current landing page.) <br>
+![Portfolio Screenshot](src/Screenshot2025-04-04123830.png)
 
 # About me:⚡️
 ### Undergraduate Student @ UC Davis, Computer Engineering <br>
