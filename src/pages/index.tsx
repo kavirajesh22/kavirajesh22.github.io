@@ -18,12 +18,6 @@ const Event = dynamic<EventProps>(
 const ACTIONS: Array<NavigationItem> = [
 	{
 		type: NavigationItemType.LINK,
-		href: '/blog',
-		icon: <Icon className="mr-3" icon="feather:edit-3" />,
-		text: 'Blog',
-	},
-	{
-		type: NavigationItemType.LINK,
 		href: '/projects',
 		icon: <Icon className="mr-3" icon="feather:copy" />,
 		text: 'Projects',
@@ -43,7 +37,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `I am a software engineer & games developer`;
+	const description = `& 2nd-year Undergrad Student @ UC Davis, majoring in CSE`;
 
 	return (
 		<Layout.Default>
@@ -57,9 +51,13 @@ export default function HomePage(): JSX.Element {
 							scale: [0.75, 1],
 						}}
 						className="text-gray-500 dark:text-white text-5xl sm:text-6xl md:text-6xl lg:text-8xl tracking-tight font-extrabold">
-						Hey <span className="inline-block origin-70 hover:(animate-wave)">👋</span>{' '}
-						I&apos;m Ben, <br className="hidden sm:block" />a{' '}
-						<Pill.Standard className="mt-4">developer</Pill.Standard>
+						Hi <span className="inline-block origin-70 hover:(animate-wave)">🌱</span>{' '}
+						I&apos;m Kavi, <br className="hidden sm:block" />a{' '}
+						<Pill.Standard className="mt-4 bg-pink-50 text-pink-300 hover:bg-pink-100 font-bold rounded-full px-6 py-3">
+  developer
+</Pill.Standard>
+
+
 					</Animate>
 
 					<Animate

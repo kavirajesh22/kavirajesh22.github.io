@@ -1,76 +1,73 @@
 [
 	{
-		"date": "03-14-2022",
-		"title": "Started @ Wander",
-		"description": "Joined the Wander team",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Wander",
-			"url": "https://wander.com/"
-		}
+	  "date": "01-01-2025",
+	  "title": "Undergraduate Researcher in Prof. Shankar's Lab",
+	  "description": "Assisting PI Jinyue Song, and graduated Ph.D. student Jayneel Vora in their research on mmWaves, machine learning, and autonomous vehicles",
+	  "icon": "feather:briefcase",
+	  "link": {
+		"text": "Prof. Shankar",
+		"url": "https://health.ucdavis.edu/phs/team/22152/prabhu-shankar---clinical-informatics/"
+	  }
 	},
 	{
-		"date": "10-22-2021",
-		"title": "Launched nuro.dev",
-		"description": "Successfully launched my newly re-designed portfolio",
-		"icon": "feather:award"
+	  "date": "01-01-2024",
+	  "title": "Hackathon Participant",
+	  "description": "Built a couple of cool projects using React, Node.js, PostgreSQL, etc. :)",
+	  "icon": "feather:code",
+	  "link": {
+		"text": "Latest Project: Minty",
+		"url": "https://kavirajesh22.github.io"
+	  }
 	},
 	{
-		"date": "03-15-2021",
-		"title": "Started @ Attio",
-		"description": "Joined the Attio team",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Attio",
-			"url": "https://attio.com/"
-		}
+	  "date": "01-01-2024",
+	  "title": "Publicist @ COFFEE (Club of Future Electrical Engineers)",
+	  "description": "A community of amazing women in EE & CE",
+	  "icon": "feather:briefcase"
 	},
 	{
-		"date": "11-16-2020",
-		"title": "Started @ Aiming.pro",
-		"description": "Joined the Aiming.pro team",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Aiming.pro",
-			"url": "https://aiming.pro/"
-		}
+	  "date": "01-01-2023",
+	  "title": "Started University @ UC Davis",
+	  "description": "Began studies in Computer Engineering at UC Davis.",
+	  "icon": "feather:map-pin"
 	},
 	{
-		"date": "07-15-2020",
-		"title": "Graduated University!",
-		"description": "Successfully completed my Bachelor's Degree",
-		"icon": "feather:award"
+	  "date": "01-01-2023",
+	  "title": "Intern @ Accenture",
+	  "description": "Worked as a summer intern at Accenture.",
+	  "icon" : "feather:briefcase"
 	},
 	{
-		"date": "10-11-2018",
-		"title": "First Developer Role",
-		"description": "Began an internship as a junior developer working at Stink Studios",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit Stink Studios",
-			"url": "https://stinkstudios.com/"
-		}
+	  "date": "01-01-2021",
+	  "title": "PERIOD @ SCHS Founder",
+	  "description": "Donated over 5,000 menstrual hygiene products to the SC homeless community",
+	  "icon": "feather:award"
 	},
 	{
-		"date": "11-04-2016",
-		"title": "First Job!",
-		"description": "Began my first part-time job as a junior service desk analyist at CreeperHost",
-		"icon": "feather:briefcase",
-		"link": {
-			"text": "Visit CreeperHost",
-			"url": "http://creeperhost.net/"
-		}
+	  "date": "01-01-2020",
+	  "title": "TaroHacks Organizer",
+	  "description": "Helped organize a successful online hackathon during the COVID pandemic.",
+	  "icon": "feather:briefcase",
+	  "link": {
+		"text": "TaroHacks",
+		"url": "https://teamtaroftc.com/"
+	  }
 	},
 	{
-		"date": "09-10-2016",
-		"title": "Start University",
-		"description": "Began studying Computer Games Programming at Staffordshire University",
-		"icon": "feather:book"
+	  "date": "01-01-2020",
+	  "title": "Began my robotics journey w/ Team Taro :)",
+	  "description": "Became a Hardware subteam leader on an 11-member team for FTC. Won NorCal championships 2x for engineering design, etc.",
+	  "icon": "feather:map-pin",
+	  "link": {
+		"text": "Visit Team Taro",
+		"url": "https://www.instagram.com/team_taro_ftc/"
+	  }
 	},
 	{
-		"date": "08-09-1997",
-		"title": "Birthday!",
-		"description": "I was born the 9th of August 1997",
-		"icon": "feather:gift"
+	  "date": "01-01-2019",
+	  "title": "Started High School",
+	  "description": "Joined the 49ers STEM program",
+	  "icon": "feather:map-pin"
 	}
-]
+  ]
+  
