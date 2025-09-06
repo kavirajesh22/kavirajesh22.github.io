@@ -1,8 +1,8 @@
 [
 	{
 	  "date": "01-01-2025",
-	  "title": "Undergraduate Researcher in Prof. Shankar's Lab",
-	  "description": "Assisting PI Jinyue Song, and graduated Ph.D. student Jayneel Vora in their research on mmWaves, machine learning, and autonomous vehicles",
+	  "title": "Undergraduate Researcher, Prof. Shankar's Lab",
+	  "description": "Assisting PI Jinyue Song and Ph.D. graduate Jayneel Vora in research and a review paper on mmWave sensing, machine learning, and autonomous vehicles",
 	  "icon": "feather:briefcase",
 	  "link": {
 		"text": "Prof. Shankar",
@@ -10,64 +10,20 @@
 	  }
 	},
 	{
-	  "date": "01-01-2024",
-	  "title": "Hackathon Participant",
-	  "description": "Built a couple of cool projects using React, Node.js, PostgreSQL, etc. :)",
-	  "icon": "feather:code",
+	  "date": "06-01-2025",
+	  "title": "Hardware Intern @ AI Vision Food Lab, Prof. Zhongli Pan",
+	  "description": "Developed and updated SDK components for SmartProbe, a pest early-detection device, leveraging Nordic hardware and Zephyr RTOS",
+	  "icon" : "feather:briefcase",
 	  "link": {
-		"text": "Latest Project: Minty",
-		"url": "https://kavirajesh22.github.io"
-	  }
-	},
-	{
-	  "date": "01-01-2024",
-	  "title": "Publicist @ COFFEE (Club of Future Electrical Engineers)",
-	  "description": "A community of amazing women in EE & CE",
-	  "icon": "feather:briefcase"
-	},
-	{
-	  "date": "01-01-2023",
-	  "title": "Started University @ UC Davis",
-	  "description": "Began studies in Computer Engineering at UC Davis.",
-	  "icon": "feather:map-pin"
+		"text": "AI Vision Food Lab",
+		"url": "https://www.aivisionfood.com/"
+	  }	
 	},
 	{
 	  "date": "01-01-2023",
 	  "title": "Intern @ Accenture",
 	  "description": "Worked as a summer intern at Accenture.",
 	  "icon" : "feather:briefcase"
-	},
-	{
-	  "date": "01-01-2021",
-	  "title": "PERIOD @ SCHS Founder",
-	  "description": "Donated over 5,000 menstrual hygiene products to the SC homeless community",
-	  "icon": "feather:award"
-	},
-	{
-	  "date": "01-01-2020",
-	  "title": "TaroHacks Organizer",
-	  "description": "Helped organize a successful online hackathon during the COVID pandemic.",
-	  "icon": "feather:briefcase",
-	  "link": {
-		"text": "TaroHacks",
-		"url": "https://teamtaroftc.com/"
-	  }
-	},
-	{
-	  "date": "01-01-2020",
-	  "title": "Began my robotics journey w/ Team Taro :)",
-	  "description": "Became a Hardware subteam leader on an 11-member team for FTC. Won NorCal championships 2x for engineering design, etc.",
-	  "icon": "feather:map-pin",
-	  "link": {
-		"text": "Visit Team Taro",
-		"url": "https://www.instagram.com/team_taro_ftc/"
-	  }
-	},
-	{
-	  "date": "01-01-2019",
-	  "title": "Started High School",
-	  "description": "Joined the 49ers STEM program",
-	  "icon": "feather:map-pin"
 	}
   ]
   

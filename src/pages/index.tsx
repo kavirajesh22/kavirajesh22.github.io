@@ -29,6 +29,13 @@ const ACTIONS: Array<NavigationItem> = [
 		icon: <Icon className="mr-3" icon="feather:github" />,
 		text: 'GitHub',
 	},
+	{
+		type: NavigationItemType.LINK,
+		external: true,
+		href: '/timeline',
+		icon: <Icon className="mr-3"/>,
+		text: 'Research',
+	},
 ];
 
 export default function HomePage(): JSX.Element {
@@ -37,7 +44,7 @@ export default function HomePage(): JSX.Element {
 	const isBirthday =
 		today.getDate() === birthday.getDate() && today.getMonth() === birthday.getMonth();
 
-	const description = `& 2nd-year Undergrad Student @ UC Davis, majoring in CSE`;
+	const description = `& 3rd-year Undergrad Student @ UC Davis, majoring in CSE`;
 
 	return (
 		<Layout.Default>
